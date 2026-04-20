@@ -1,5 +1,3 @@
-# CAFBA
-### 🚀 Coming Soon
-
-![Status](https://img.shields.io/badge/状态-即将发布-yellow)
+# CAFBA: Context-Aware Adaptive Fusion Backdoor Attack for Polyp Segmentation
+### 🚧 Status: Coming Soon
 🕒 Our code will be made public soon
